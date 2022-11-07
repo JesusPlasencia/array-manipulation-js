@@ -1,1 +1,1 @@
-# curso-manipulacion-de-arrays
+# array-manipulation-js
